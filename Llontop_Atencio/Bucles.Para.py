@@ -33,3 +33,13 @@ while(i<=max):
         #fin_si
 #fin_while
 print("suma:",s)
+
+
+
+#Ejercicio04
+#numeros del 10 al 40
+n=10
+while(n<=40):
+    print(n)
+    n+=1
+#fin_while
