@@ -27,3 +27,13 @@ while(talla_invalida):
     talla_invalida=(talla<1.55 or talla>1.65)
 #fin_while
 print("talla valida:",talla)
+
+
+#Ejercicio04
+peso=50.5
+peso_invalida=(peso<52 or peso>75)
+while(peso_invalida):
+    peso=float(input("ingrese peso:"))
+    peso_invalida=(peso<52 or peso>75)
+#fin_while
+print("peso valida:",peso)
