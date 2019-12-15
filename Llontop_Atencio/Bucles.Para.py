@@ -9,3 +9,13 @@ while(i<=max):
         #fin_si
 #fin_while
 print("suma pares:",s)
+
+
+
+#Ejercicio02
+#Numeros pares del 0 al 100
+n=0
+while(n<=100):
+    print(n)
+    n+=2
+#fin_while
