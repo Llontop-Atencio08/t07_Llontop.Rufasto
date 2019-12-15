@@ -37,3 +37,15 @@ while(peso_invalida):
     peso_invalida=(peso<52 or peso>75)
 #fin_while
 print("peso valida:",peso)
+
+
+
+#Ejercicio05
+#monto total para saber si gana una vale
+monto_total=350.0
+monto_total_invalida=(monto_total<400 or monto_total>500)
+while(monto_total_invalida):
+    monto_total=float(input("ingrese monto total:"))
+    monto_total_invalida=(monto_total<400 or monto_total>500)
+#fin_while
+print("monto total valida:",monto_total)
