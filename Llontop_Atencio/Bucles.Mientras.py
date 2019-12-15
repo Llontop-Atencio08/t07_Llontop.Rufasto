@@ -16,3 +16,14 @@ while(hemoglobina_invalida):
     hemoglobina_invalida=(hemoglobina<13 or hemoglobina>16)
 #fin_while
 print("hemoglobina valida:",hemoglobina)
+
+
+
+#Ejercicio03
+talla=1.53
+talla_invalida=(talla<1.55 or talla>1.65)
+while(talla_invalida):
+    talla=float(input("ingrese talla:"))
+    talla_invalida=(talla<1.55 or talla>1.65)
+#fin_while
+print("talla valida:",talla)
