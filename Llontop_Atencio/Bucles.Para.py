@@ -43,3 +43,13 @@ while(n<=40):
     print(n)
     n+=1
 #fin_while
+
+
+
+#Ejercicio05
+#numeros del 150 al 50
+i=150
+while(i>=50):
+    print(i)
+    i-=1
+#fin_while
