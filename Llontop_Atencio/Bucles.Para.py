@@ -19,3 +19,17 @@ while(n<=100):
     print(n)
     n+=2
 #fin_while
+
+
+#Ejercicio03
+#suma de la serie
+i=0
+s=0
+max=30
+while(i<=max):
+    i+=3
+    if((i%2)==0):
+        s=s+10
+        #fin_si
+#fin_while
+print("suma:",s)
