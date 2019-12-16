@@ -51,3 +51,15 @@ for i in range (31):
     #fin_if
 #fin_for
 print("suma:",s)
+
+
+#Ejercicio04
+#numeros del 10 al 40
+n=10
+while(n<=40):
+    print(n)
+    n+=1
+#fin_while
+n=10
+for n in range (40):
+    print(n)
