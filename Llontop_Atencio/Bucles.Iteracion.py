@@ -37,3 +37,16 @@ for numero in msg:
     if(numero=="3"):
         print("gano un vale de 100 soles")
 #fin_for
+
+
+#Ejercicio04
+import os
+msg=os.sys.argv[1]
+for letra in msg:
+    if(letra=="x"):
+        print("peligro")
+    if(letra=="y"):
+        print("cuidado")
+    if(letra=="z"):
+        print("despacio")
+#fin_for
