@@ -16,3 +16,17 @@ for i in range (51):
     #fin_if
 #fin_for
 print("suma pares:",s)
+
+
+#Ejercicio02
+#Numeros pares del 0 al 100
+n=0
+while(n<=100):
+    print(n)
+    n+=2
+#fin_while
+n=0
+for n in range (100):
+    print(n)
+
+#fin_for
