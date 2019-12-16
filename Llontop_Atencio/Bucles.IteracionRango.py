@@ -30,3 +30,24 @@ for n in range (100):
     print(n)
 
 #fin_for
+
+
+#Ejercicio03
+#suma de la serie
+i=0
+s=0
+max=30
+while(i<=max):
+    i+=3
+    if((i%2)==0):
+        s=s+10
+        #fin_si
+#fin_while
+print("suma:",s)
+s=0
+for i in range (31):
+    if((i%2)==0):
+        s=s+i
+    #fin_if
+#fin_for
+print("suma:",s)
