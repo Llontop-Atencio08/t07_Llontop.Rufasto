@@ -50,3 +50,16 @@ for letra in msg:
     if(letra=="z"):
         print("despacio")
 #fin_for
+
+
+#Ejercicio05
+import os
+msg=os.sys.argv[1]
+for letra in msg:
+    if(letra=="L"):
+        print("llamame urgente")
+    if(letra=="J"):
+        print("estoy en clase")
+    if(letra=="K"):
+        print("dejame tus llaves")
+#fin_for

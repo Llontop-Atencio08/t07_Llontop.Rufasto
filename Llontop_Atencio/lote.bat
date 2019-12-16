@@ -5,3 +5,5 @@ Python Llontop_Atencio/Bucles.Iteracion.py "mamá" "abreme la puerta" "necesito 
 Python Llontop_Atencio/Bucles.Iteracion.py "gracias por su compra" "lo esperamos pronto" "gano un vale de 100 soles"
 
 Python Llontop_Atencio/Bucles.Iteracion.py "peligro" "cuidado" "despacio"
+
+Python Llontop_Atencio/Bucles.Iteracion.py "llamame urgente" "estoy en clase" "dejame tus llaves"
